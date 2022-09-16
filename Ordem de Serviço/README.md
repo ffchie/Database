@@ -1,0 +1,1 @@
+Projeto conceitual de esquema de um esquema de banco de dados, elaborado para o Bootcamp da DIO, sobre Database.
